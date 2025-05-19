@@ -1,0 +1,33 @@
+*{
+    background-color: darkslategrey;
+    color: white;
+    font-style: italic;
+    text-align: center;
+}
+h1{
+    font-size: 3rem;
+    text-align: center;
+    margin-bottom: 100px;
+}
+#num{
+    font-weight: bold;
+    height: 50px;
+
+}
+#submit{
+    margin-left: 50px;
+    height: 50px;
+    width: 90px;
+    font-size: 20px;
+    background-color: darkred;
+    font-style: italic;
+}
+#display{
+    margin-top:50px ;
+    font-size: 4rem;
+}
+#answer{
+    margin-top:20px ;
+    font-size: 2rem;
+}
+
