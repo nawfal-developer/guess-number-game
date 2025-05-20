@@ -2,6 +2,9 @@
 
 A simple number guessing game built with HTML, CSS, and JavaScript. 
 
+Your site is live at https://nawfal-developer.github.io/guess-number-game/
+
+
 ## Tech Stack
 
 - HTML
